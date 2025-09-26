@@ -63,7 +63,7 @@ This ensures stable power for all components, from logic gates to the microcontr
 ### Open-Source Potential
 - Encourages collaboration and modifications by the maker community.
 
-The **Electronics History Board** is more than a circuit—it’s a **time machine** that lets you experience the milestones of electronics firsthand. By combining **history, theory, and hands-on experimentation**, this board makes learning electronics **engaging, practical, and fun**.
+The **Electronics History Board** is more than a circuit, it’s a **time machine** that lets you experience the milestones of electronics firsthand. By combining **history, theory, and hands-on experimentation**, this board makes learning electronics **engaging, practical, and fun**.
 
 ## Interested in the Book?
 If you're curious about the **full story behind the Electronics History Board** and want to dive deeper into the history, theory, and practical applications of electronics, I’ve written a comprehensive book on the subject. Feel free to reach out to me if you’d like to read it or learn more!
